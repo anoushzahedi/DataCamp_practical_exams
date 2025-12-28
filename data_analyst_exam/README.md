@@ -1,5 +1,5 @@
 
-![Banner](certificate/DA - LinkedIn.png)
+![Banner](./certificate/DA - LinkedIn.png)
 # (1) data_analyst_exam
 ## Practical Exam: Product Sales
 The task is described fully in Practical_Exam_Instructions.<br/>
