@@ -1,5 +1,5 @@
 
-![Banner](./data_analyst_exam/certificate/DA.png)
+![Banner](./certificate/DA.png)
 # (1) data_analyst_exam
 ## Practical Exam: Product Sales
 The task is described fully in Practical_Exam_Instructions.<br/>
