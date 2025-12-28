@@ -1,4 +1,4 @@
-![Banner](certificate/Python Data Associate - LinkedIn.png)
+![Banner](./certificate/PDA.png)
 # (2) data_associate_exam
 ##Practical Exam: Spectrum Shades LLC<br/>
 

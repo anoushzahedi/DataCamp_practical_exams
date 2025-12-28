@@ -1,4 +1,4 @@
-![banner](certificate/DS Associate - LinkedIn.png)
+![banner](./certificate/DSA.png)
 # (3) data_science_associate_exam
 
 ##Practical Exam: House sales<br/>
